@@ -1,0 +1,25 @@
+{
+  "name": "DcList",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node ravgar.js",
+  "scripts": {
+    "start": "node ravgar",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.3.0",
+    "discord-api-types": "^0.37.19",
+    "discord-modals": "^1.3.9",
+    "discord.js": "^14.0.1",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.7",
+    "nodemon": "^2.0.2",
+    "socket.io": "^2.4.1"
+  }
+}
