@@ -2,5 +2,5 @@
 
 # Codesty Mantığında Yapılmış Slash Komutundan Sitesine Kadar Hazır Olan Projeyi 20 Starda Buraya Bırakıcam
 
-# Coderları İçin Aris Lesnar#0001 ve apo4111#0001' Teşekkürler
+# Coderları İçin Aris Lesnar#0001 ve apo4111#0001'e Teşekkürler
 
